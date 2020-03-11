@@ -19,6 +19,7 @@ Evaluate the model with a confusion matrix to see how individual classes perform
 Output the overall accuracy (use test data from the split)
 
 classification_with_deep_learning
+The aim of the model is classification of outdoor equipments using trained model
 
 Architecture:
 1. Input Layer (3 channel image input layer)
